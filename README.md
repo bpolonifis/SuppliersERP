@@ -62,6 +62,7 @@ Simple Suppliers ERP, Back-End in Angular with CRUD on Database.
 
 Template of implementation 
 1.	https://www.youtube.com/watch?v=4a9VxZjnT7E&feature=youtu.be
+2.	https://www.youtube.com/@NehanthWorld/playlists
 
 
 Validations
@@ -72,4 +73,5 @@ Validations
 
 Back End
 1.	https://docs.microsoft.com/el-gr/aspnet/web-api/overview/security/enabling-cross-origin-requests-in-web-api#enable-cors
+2.	https://www.youtube.com/@NehanthWorld/playlists
 
